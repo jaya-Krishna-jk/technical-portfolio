@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//jaya-Krishna-jk/technical-portfolio.git/static/css/main.4523d60f.css",
+    "main.js": "//jaya-Krishna-jk/technical-portfolio.git/static/js/main.863daaf4.js",
+    "static/js/453.e9bccf0a.chunk.js": "//jaya-Krishna-jk/technical-portfolio.git/static/js/453.e9bccf0a.chunk.js",
+    "static/media/logo.svg": "//jaya-Krishna-jk/technical-portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//jaya-Krishna-jk/technical-portfolio.git/index.html",
+    "main.4523d60f.css.map": "//jaya-Krishna-jk/technical-portfolio.git/static/css/main.4523d60f.css.map",
+    "main.863daaf4.js.map": "//jaya-Krishna-jk/technical-portfolio.git/static/js/main.863daaf4.js.map",
+    "453.e9bccf0a.chunk.js.map": "//jaya-Krishna-jk/technical-portfolio.git/static/js/453.e9bccf0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4523d60f.css",
+    "static/js/main.863daaf4.js"
+  ]
+}
